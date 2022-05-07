@@ -1,0 +1,106 @@
+.howits-wrk-sec {
+    padding: 90px 0 80px 0;
+    background: transparent url('https://etutorhome.com/wp-content/themes/etutorhome/images/howits-secbg.png') no-repeat;
+    background-size: 100%;
+    background-position: center;
+    position: relative;
+    color: #fff;
+}
+.sec-hding-hldr {
+    text-align: center;
+    position: relative;
+    /* padding-bottom: 30px; */
+}
+.hding-title {
+    font-size: 42px;
+    margin: 0;
+    font-weight: normal;
+    color: #1e1e1e;
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    margin-bottom: 35px;
+}
+.subhding-hlder {
+    text-align: center;
+    padding-top: 10px;
+    color: #000;
+}
+.profileing-bx-hlder.profileing-bx-top-mrgn-up {
+    margin-top: 80px;
+}
+.profileing-bx-hlder.color1 {
+    background: #0d565f;
+}
+.pficon img {
+    filter: invert(1);
+}
+.profileing-bx-hlder:hover .pficon img {
+    filter: invert(1);
+}
+.profileing-bx-hlder {
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0 0 77px 2px rgb(0 0 0 / 20%);
+    /* height: 325px; */
+    padding: 15px 25px 55px;
+    background: #fff;
+    margin-top: 135px;
+    transition: 0.3s ease-in-out;
+    transform: scale(1);
+}
+.profileing-bx-hlder p,
+.profileing-bx-hlder li {
+    text-align: left;
+}
+.profileing-bx-hlder.hvclr1:hover {
+    background: #756a64;
+    transform: scale(1.1);
+}
+.pficon.clr1 {
+    background: #fff;
+}
+.pficon {
+    width: 95px;
+    height: 95px;
+    background: #fff;
+    display: inline-block;
+    padding: 14px;
+    border-radius: 100%;
+    padding-top: 14px;
+    position: relative;
+    top: -35px;
+    transition: 0.3s ease-in-out;
+}
+.profileing-bx-hlder.color2 {
+    background: #68724d;
+}
+.profileing-bx-hlder.hvclr2:hover {
+    background: #9c4830;
+    transform: scale(1.1);
+}
+.pficon.clr2 {
+    background: #fff;
+}
+.pficon.clr2 {
+    padding-top: 12px;
+}
+.profileing-bx-hlder.hvclr3:hover {
+    background: #0d565f;
+    transform: scale(1.1);
+}
+.profileing-bx-hlder.color3 {
+    background: #756a64;
+}
+.pficon.clr3 {
+    background: #fff;
+}
+.profileing-bx-hlder:hover .pficon {
+    background: #fff;
+}
+.profileing-bx-hlder.color4 {
+    background: #9c4830;
+}
+.profileing-bx-hlder.hvclr4:hover {
+    background: #68724d;
+    transform: scale(1.1);
+}
